@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi 👋, I'm Yasin Arafat Ajad</h1>
-    <h3>A passionate frontend developer from Bangladesh</h3>
+    <h2>A passionate FrontEnd Web Developer from Bangladesh</h2>
     
     <p> <img src="https://komarev.com/ghpvc/?username=yasinarafatajad&label=Profile%20views&color=0e75b6&style=flat" alt="yasinarafatajad" /> </p>
     
