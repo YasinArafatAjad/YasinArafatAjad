@@ -1,12 +1,10 @@
-<div align="center">
-    <h1>Hi 👋, I'm Yasin Arafat Ajad</h1>
-    <h2>A passionate FrontEnd Web Developer from Bangladesh</h2>
+    <h1 align="center">Hi 👋, I'm Yasin Arafat Ajad</h1>
+    <h2 align="center">A passionate FrontEnd Web Developer from Bangladesh</h2>
     
-    <p> <img src="https://komarev.com/ghpvc/?username=yasinarafatajad&label=Profile%20views&color=0e75b6&style=flat" alt="yasinarafatajad" /> </p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasinarafatajad&label=Profile%20views&color=0e75b6&style=flat" alt="yasinarafatajad" /> </p>
     
     <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinarafatajad" alt="yasinarafatajad" /></a> </p>
     
-</div>
 <div align="center">
 
     <h2>Connect with me:</h2>
