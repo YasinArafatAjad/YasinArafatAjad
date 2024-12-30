@@ -36,7 +36,6 @@
 
 ***
 ***
-<p align="center"><img src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15.gif" /></p>
 <h2 align="center">Thanks For Visiting My Profile</h2>
 
 ***
