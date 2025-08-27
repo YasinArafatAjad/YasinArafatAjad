@@ -1,4 +1,30 @@
 ---
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yasinarafatajad&label=Profile%20views&color=0e75b6&style=flat" alt="yasinarafatajad" />
+</p>
+
+<!-- Title -->
+<h1 align="center">Hi, I'm <span style="color:#0e75b6;">Yasin Arafat Ajad</span></h1>
+<h3 align="center">A Passionate Fullstack Web Developer | MERN Stack Enthusiast | Open Source Contributor</h3>
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/YasinArafatAjad/YasinArafatAjad/blob/main/Ajad-05.jpg" alt="Banner" height="500" />
+</p>
+
+---
+
+## 🌟 About Me  
+
+- 🔭 Currently working on **MERN Stack Projects**  
+- 🌱 Learning **Advanced System Design & DevOps**  
+- 💡 Love building **scalable web apps with clean architecture & modern UI/UX**  
+- 💬 Ask me about **React, Node.js, MongoDB, Firebase, TailwindCSS**  
+- ⚡ Fun Fact: *I think in Code, Dream in Cloud ☁️*  
+- 🎯 Goal: Become a **Top 1% Developer & Contributor** in Open Source  
+
+---
 
 ## 🌐 Connect With Me  
 <p align="center">
@@ -23,9 +49,6 @@
   <img src="https://streak-stats.demolab.com?user=yasinarafatajad&theme=radical" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git,figma,ps" />
-</p>
 
 
 ---
@@ -37,7 +60,7 @@
 
 ---
 
-## 🌀 Contribution Graph  
+## 🌀 Contribution Graph (Last 30 Days)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasinarafatajad&theme=react-dark&hide_border=true&area=true" />
 </p>
