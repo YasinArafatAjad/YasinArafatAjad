@@ -46,17 +46,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git,figma,ps" />
 </p>
 
----
-
-## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinarafatajad&show_icons=true&theme=radical" height="170"/>
-</p>
-
-
-
----
-
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=yasinarafatajad&theme=radical&no-frame=true&row=1&column=7" />
