@@ -45,6 +45,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git,figma,ps" />
 </p>
+#### 🛠️ Skills
+
+**Frontend:**NextJS. React, TailwindCSS, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express.js, MongoDB, Firebase  
+**DevOps & Tools:** Git, Vercel, Postman, Figma  
+**Other:** REST APIs, JWT Auth
+
 
 ## 🏆 GitHub Trophies  
 <p align="center">
