@@ -25,6 +25,9 @@
 - 🎯 Goal: Become a **Top 1% Developer & Contributor** in Open Source  
 
 ---
+### 📈 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&date_format=M%20j&ring=FF0000)
+
 
 ## 🌐 Connect With Me  
 <p align="center">
