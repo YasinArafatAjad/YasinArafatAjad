@@ -51,7 +51,6 @@
 ## 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasinarafatajad&show_icons=true&theme=radical" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=yasinarafatajad&theme=radical" height="170"/>
 </p>
 
 
