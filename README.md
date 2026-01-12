@@ -26,7 +26,9 @@
 
 ---
 ### 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasinarafatajad&theme=dark&hide_border=true&date_format=M%20j&ring=FF0000)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinarafatajad&theme=dark&hide_border=true&date_format=M%20j&ring=FF0000" alt="GitHub Streak">
+</p>
 
 
 ## 🌐 Connect With Me  
