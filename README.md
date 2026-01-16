@@ -27,7 +27,7 @@
 ---
 ### 📈 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinArafatAjad&theme=dark&hide_border=true&date_format=M%20j&ring=FF0000" alt="">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinarafatajad&theme=dark&hide_border=true&date_format=M%20j&ring=FF0000" alt="">
 </p>
 
 
